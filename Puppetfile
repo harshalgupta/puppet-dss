@@ -39,7 +39,7 @@ mod 'puppetlabs/concat',
 
 mod 'enovance/ceph',
   :git => "#{base_url}/jioclouddss/puppet-ceph",
-  :ref => 'staging'
+  :ref => 'production'
 
 mod 'puppetlabs/stdlib',
   :git => "#{base_url}/puppetlabs/puppetlabs-stdlib",
